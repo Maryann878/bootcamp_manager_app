@@ -31,10 +31,10 @@ Clone this repository:
 git clone https://github.com/yourusername/bootcamp-manager-python.git
 
 
-**PURPOSE**:
+## **PURPOSE**:
 This was a hands-on python project i worked on to practice core programming concepts, simulate real-world software logic and perfect my python skills.
 
-**AUTHOR**:
+## **AUTHOR**:
 **MaryAnn Nwagor**
 **Frontend Developer | Cybersecurity Enthusiast
 **
