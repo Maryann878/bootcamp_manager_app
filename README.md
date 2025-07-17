@@ -30,6 +30,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/yourusername/bootcamp-manager-python.git
 
+
 **PURPOSE**:
 This was a hands-on python project i worked on to practice core programming concepts, simulate real-world software logic and perfect my python skills.
 
@@ -39,4 +40,3 @@ This was a hands-on python project i worked on to practice core programming conc
 **
 
 Feel free to fork, star ⭐, or contribute!
-
