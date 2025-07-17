@@ -25,18 +25,46 @@ This project is a simple Bootcamp Management System built using Python. It simul
 - **Language**: Python 3
 - **Interface**: Command-line (CLI)
 
+
+## **PURPOSE** 
+This was a hands-on python project i worked on to practice core programming concepts, simulate real-world software logic and perfect my python skills.
+
+## **AUTHOR**:
+**MaryAnn Nwagor**
+Frontend Developer | Cybersecurity Enthusiast
+
 ## 🔧 How to Run
 Clone this repository:
 ```bash
 git clone https://github.com/yourusername/bootcamp-manager-python.git
 
 
-## **PURPOSE**:
-This was a hands-on python project i worked on to practice core programming concepts, simulate real-world software logic and perfect my python skills.
 
-## **AUTHOR**:
-**MaryAnn Nwagor**
-**Frontend Developer | Cybersecurity Enthusiast
-**
 
-Feel free to fork, star ⭐, or contribute!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
